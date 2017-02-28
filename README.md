@@ -1,1 +1,5 @@
-# asynchronous-javascript-training
+# Asynchronous JavaScript Training
+
+## Exercises
+
+ * [headline slider](slider)
